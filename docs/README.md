@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /images/logo.jpg
-heroText: Jonny Wei 的博客
+heroImage: /images/amanwithadog.jpg
+heroText: BigWillC 的博客
 tagline: 没事多学习，盘它
 actionText: 阅读文章
 actionLink: /english/
